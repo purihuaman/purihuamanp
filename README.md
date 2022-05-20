@@ -12,7 +12,7 @@
 - React
 
 ### Contacto
-  https://purihuamanp.netlify.app/
+  https://pvrihuaman.netlify.app/
   📫 pedropurihuaman@gmail.com
 <!--
 **purihuamanp/purihuamanp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
